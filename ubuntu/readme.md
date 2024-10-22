@@ -15,3 +15,9 @@ Procesador de doble núcleo a 2 GHz o superior.
 ·G-Parted
 
 Se descarga desde su web oficial en [SourceForge](https://sourceforge.net/projects/gparted/files/gparted-live-stable/1.6.0-10/gparted-live-1.6.0-10-amd64.iso/download?use_mirror=unlimited)
+
+
+Instalacion GParted 
+
+Mientras arranca la maquina pulsamos F2 y booteamos desde gparted
+
