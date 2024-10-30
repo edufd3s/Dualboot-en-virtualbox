@@ -21,7 +21,7 @@
 
 Mientras arranca la maquina pulsamos F2 y booteamos desde gparted, se abrira una ventana en la que podremos seleccionar la particion que queramos
 
-![Gparted](ubuntu/img/edu_gparted_1.png) elegimos la particion grande e instalamos.
+![Gparted](/img/edu_gparted_1.png) elegimos la particion grande e instalamos.
 
 ## Instalacion Ubuntu
 
