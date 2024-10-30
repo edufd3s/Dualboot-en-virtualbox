@@ -19,5 +19,4 @@
 
 ## Instalacion GParted 
 
-Mientras arranca la maquina pulsamos F2 y booteamos desde gparted
-
+Mientras arranca la maquina pulsamos F2 y booteamos desde gparted 
