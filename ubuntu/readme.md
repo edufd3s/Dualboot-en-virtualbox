@@ -19,4 +19,14 @@
 
 ## Instalacion GParted 
 
-Mientras arranca la maquina pulsamos F2 y booteamos desde gparted 
+Mientras arranca la maquina pulsamos F2 y booteamos desde gparted, se abrira una ventana en la que podremos seleccionar la particion que queramos
+
+![ubuntu/img/edu_gparted_1.png] elegimos la particion grande e instalamos.
+
+## Instalacion Ubuntu
+
+Montamos la iso de ubuntu que hemos descargado desde la pagina oficial y la montamos en la maquina virtual. Para instalarla al iniciar la maquina virtual pulsamos F2
+hasta que nos da la opcion.
+
+Instalamos normalmente ubuntu.
+
