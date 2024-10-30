@@ -14,7 +14,7 @@ Usaremos estos requisitos para definir los parametros en la maquina virtual, por
 
 La siguiente foto es una captura de los parametros que se pueden ajustar en la maquina virtual. (Es mi ordenador, no el del instituto ya que estoy haciendo la tarea fuera.
 
-![windows/IMG/parametros_virtualbox.png] 
+![Parametros virtualbox] (windows/IMG/parametros_virtualbox.png)
 
 
 El siguiente paso es descargar la iso de windows 11, montarla en la maquina virtual e instalarlo normalmente. 
